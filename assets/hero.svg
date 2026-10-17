@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+  <title id="title">Y J M Saikrishna — AI, ML, Web and Software Engineering</title>
+  <desc id="desc">A dark navy technology banner with cyan and violet gradients, abstract connection nodes, and a developer terminal.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="55%" stop-color="#101b35"/>
+      <stop offset="100%" stop-color="#17143b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#2563eb" stop-opacity=".35"/>
+      <stop offset="100%" stop-color="#2563eb" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#93c5fd" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="420" rx="24" fill="url(#bg)"/>
+  <rect width="1600" height="420" rx="24" fill="url(#grid)"/>
+  <circle cx="1320" cy="100" r="420" fill="url(#glow)"/>
+  <g fill="none" stroke="url(#accent)" stroke-opacity=".35" stroke-width="2">
+    <path d="M1040 85L1160 145L1280 80L1400 155L1510 90"/>
+    <path d="M1090 280L1200 215L1320 295L1440 230L1530 300"/>
+    <path d="M1160 145L1200 215M1280 80L1320 295M1400 155L1440 230"/>
+  </g>
+  <g fill="#67e8f9">
+    <circle cx="1040" cy="85" r="5"/><circle cx="1160" cy="145" r="5"/>
+    <circle cx="1280" cy="80" r="5"/><circle cx="1400" cy="155" r="5"/>
+    <circle cx="1510" cy="90" r="5"/><circle cx="1090" cy="280" r="5"/>
+    <circle cx="1200" cy="215" r="5"/><circle cx="1320" cy="295" r="5"/>
+    <circle cx="1440" cy="230" r="5"/><circle cx="1530" cy="300" r="5"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="92" y="92" fill="#7dd3fc" font-size="18" letter-spacing="5">HELLO, WORLD 👋</text>
+    <text x="88" y="164" fill="#f8fafc" font-size="48" font-weight="700">Y J M Saikrishna</text>
+    <rect x="92" y="190" width="465" height="4" rx="2" fill="url(#accent)"/>
+    <text x="92" y="235" fill="#dbeafe" font-size="25">AI/ML Engineer · Full-Stack Developer</text>
+    <text x="92" y="273" fill="#c4b5fd" font-size="23">Python Developer · Aspiring Software Development Engineer</text>
+    <text x="92" y="330" fill="#94a3b8" font-size="17">Building practical solutions with AI, web technologies and APIs.</text>
+    <rect x="1070" y="125" width="420" height="175" rx="15" fill="#080f1d" stroke="#475569" stroke-opacity=".75"/>
+    <path d="M1070 160H1490" stroke="#475569" stroke-opacity=".6"/>
+    <circle cx="1093" cy="143" r="5" fill="#fb7185"/>
+    <circle cx="1111" cy="143" r="5" fill="#fbbf24"/>
+    <circle cx="1129" cy="143" r="5" fill="#4ade80"/>
+    <text x="1095" y="192" fill="#7dd3fc" font-family="Consolas, monospace" font-size="16">$ build --with-ai</text>
+    <text x="1095" y="222" fill="#c4b5fd" font-family="Consolas, monospace" font-size="16">python · fastapi · rag</text>
+    <text x="1095" y="252" fill="#86efac" font-family="Consolas, monospace" font-size="16">status: learning + building</text>
+    <text x="1095" y="278" fill="#64748b" font-family="Consolas, monospace" font-size="13">return value: real-world impact</text>
+  </g>
+</svg>
