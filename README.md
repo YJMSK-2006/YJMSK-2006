@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="assets/hero.svg" width="100%" alt="Yemineni Jyothi Madhava Saikrishna — AI/ML, Full-Stack and Python Developer" />
+
+</div>
+
+<div align="center">
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&height=100&lines=Yemineni+Jyothi+Madhava+Saikrishna;AI%2FML+Engineer;Full-Stack+Web+Developer;Python+Developer;Aspiring+Software+Development+Engineer" alt="Typing animation: name and developer roles" />
 </a>
@@ -102,14 +108,13 @@
 
 ---
 
-## 🏅 Certifications & Virtual Experience
+## 🏅 Certifications
 
-- **AICTE TechSaksham (Microsoft & SAP)** — completed an AI-powered resume screening and candidate-ranking project.
-- **Cisco Data Analytics Essentials** — foundational data analytics learning.
-- **Forage Virtual Experiences** — Walmart USA Advanced Software Engineering and Accenture Software Engineering.
-- **Google Cloud Skills Boost** — earned 8 skill badges.
+- **Oracle Certified Data Science Professional**
+- **Oracle Certified AI Foundations Associate**
+- **Data Structures & Algorithms using Java — CodeChef**
+- **NPTEL Programming in Java — IIT Kharagpur** *(Elite, Top 5%)*
 
-<sub>Credentials and experience details can be verified through the corresponding certificates and program pages.</sub>
 
 ## 🎯 Current Focus
 
