@@ -108,13 +108,31 @@
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications & Achievements
 
+### 📜 Certifications
+
+- **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** — Oracle University *(valid through November 1, 2027)*
+- **Agentic AI Certified Foundations Associate** — Oracle University
+- **Google AI Essentials V1** — Coursera
 - **Oracle Certified Data Science Professional**
 - **Oracle Certified AI Foundations Associate**
-- **Data Structures & Algorithms using Java — CodeChef**
-- **NPTEL Programming in Java — IIT Kharagpur** *(Elite, Top 5%)*
+- **Data Structures & Algorithms using Java** — CodeChef
+- **NPTEL Programming in Java** — IIT Kharagpur *(Elite, Top 5%)*
 
+### 💻 Coding Achievements
+
+- ⭐ **3-Star Coder on CodeChef**
+- 🚀 **500+ Problems Solved on CodeChef**
+
+<p>
+  <a href="https://www.codechef.com/users/saikrishnay_19">
+    <img src="https://img.shields.io/badge/CodeChef-3%20Star%20Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 3-star coder" />
+  </a>
+  <a href="https://www.codechef.com/users/saikrishnay_19">
+    <img src="https://img.shields.io/badge/CodeChef-500%2B%20Problems%20Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="500+ problems solved on CodeChef" />
+  </a>
+</p>
 
 ## 🎯 Current Focus
 
