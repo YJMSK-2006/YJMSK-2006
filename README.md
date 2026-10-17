@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Yemineni Jyothi Madhava Saikrishna — AI/ML, Full-Stack and Python Developer" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&height=100&lines=Yemineni+Jyothi+Madhava+Saikrishna;AI%2FML+Engineer;Full-Stack+Web+Developer;Python+Developer;Aspiring+Software+Development+Engineer" alt="Typing animation: name and developer roles" />
+</a>
 
-# Yemineni Jyothi Madhava Saikrishna
-
-### AI/ML Engineer · Full-Stack Web Developer · Python Developer · Aspiring Software Development Engineer
-
-Building practical applications with Python, APIs, machine learning, and web technologies.
+<p>Building practical applications with Python, APIs, machine learning, and web technologies.</p>
 
 <p>
   <a href="https://github.com/YJMSK-2006"><img src="https://img.shields.io/badge/GitHub-YJMSK--2006-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
