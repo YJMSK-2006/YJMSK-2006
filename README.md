@@ -1,44 +1,58 @@
-<p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Saikrishna — AI/ML, Python and Software Engineering" />
-</p>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Saikrishna;AI%2FML+%7C+Python+Developer;Building+useful+software+with+AI+%26+APIs" alt="Typing introduction" />
+<img src="assets/hero.svg" width="100%" alt="Yemineni Jyothi Madhava Saikrishna — AI/ML, Full-Stack and Python Developer" />
+
+# Yemineni Jyothi Madhava Saikrishna
 
 ### AI/ML Engineer · Full-Stack Web Developer · Python Developer · Aspiring Software Development Engineer
 
+Building practical applications with Python, APIs, machine learning, and web technologies.
+
 <p>
-  <a href="https://github.com/YJMSK-2006">
-    <img src="https://komarev.com/ghpvc/?username=YJMSK-2006&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile views" />
-  </a>
-  <img src="https://img.shields.io/github/followers/YJMSK-2006?label=FOLLOWERS&style=for-the-badge&color=6366f1" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYJMSK--2006&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&color=0f766e" alt="Public repositories" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Backend%20%7C%20SWE-0f766e?style=for-the-badge" alt="Areas of focus" />
+  <a href="https://github.com/YJMSK-2006"><img src="https://img.shields.io/badge/GitHub-YJMSK--2006-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/j-m-saikirshna-y/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" /></a>
+  <a href="mailto:saikrishnayjm2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://drive.google.com/file/d/11XGsHr_CqKgGk1iFQ--FTR90wnbGLtun/view"><img src="https://img.shields.io/badge/Resume-View-2563EB?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-YJMSK--2006-181717?style=for-the-badge&logo=github)](https://github.com/YJMSK-2006)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/j-m-saikirshna-y/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikrishnayjm2006@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-2563eb?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/11XGsHr_CqKgGk1iFQ--FTR90wnbGLtun/view)
+<img src="https://komarev.com/ghpvc/?username=YJMSK-2006&label=PROFILE%20VIEWS&color=0ea5e9&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/YJMSK-2006?label=Followers&style=flat-square&color=6366f1" alt="GitHub followers" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 💻 Coding Profiles
 
-I'm **Yemineni Jyothi Madhava Saikrishna**, a Computer Science engineering student interested in building practical software with **AI/ML, Python, and backend engineering**.
-
-- 🔭 Building **ResolveAI**, an AI-powered customer-support assistant using Retrieval-Augmented Generation (RAG).
-- 🧩 Developed backend APIs with **FastAPI and MongoDB**, including employee attendance and analytics workflows.
-- 🌱 Currently learning **Java & DSA, Machine Learning, Deep Learning, Generative AI, RAG, and full-stack web development with the MERN stack**.
-- 🤝 Interested in collaborating on AI/ML, GenAI, RAG, and full-stack projects.
-- 💬 Ask me about Python, FastAPI, ML fundamentals, RAG, SQL, MongoDB, Java, React, Node.js, Express, and full-stack web development.
-- 🎯 Career targets: **AI/ML Engineer · Full-Stack Web Developer · Python Developer · Software Development Engineer**.
-- ☕ Fun fact: I turn coffee, curiosity, and code into projects that solve real problems.
+<p>
+  <a href="https://leetcode.com/u/yjmsaikrishna_2006/"><img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.codechef.com/users/saikrishnay_19"><img src="https://img.shields.io/badge/CodeChef-View%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/saikrishn6wno?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+</p>
 
 ---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science engineering student focused on software development and applied AI.
+- 🔭 Building **ResolveAI**, an AI-powered customer-support assistant using Retrieval-Augmented Generation (RAG).
+- 🧩 Built backend APIs with **FastAPI and MongoDB**, including attendance workflows and analytics.
+- 🤝 Interested in collaborating on AI/ML, Generative AI, backend, and full-stack projects.
+- 💬 Topics I enjoy: Python, FastAPI, ML fundamentals, RAG, SQL, MongoDB, Java, React, and REST APIs.
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+| Focus area | Current learning goals |
+|:--|:--|
+| **DSA & Java** | Strengthening problem-solving, data structures, algorithms, and interview patterns |
+| **AI / Machine Learning** | Model training and evaluation, feature engineering, deep learning, and practical ML projects |
+| **Generative AI** | RAG pipelines, embeddings, semantic search, and evaluation of AI applications |
+| **Full-Stack Development** | React, Node.js, Express, API integration, authentication, and deployment |
+| **Core CS & SQL** | Operating systems, computer networks, DBMS, SQL queries, and interview fundamentals |
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -58,59 +72,63 @@ I'm **Yemineni Jyothi Madhava Saikrishna**, a Computer Science engineering stude
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/YJMSK-2006/Supervity-Customer-Support-AI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YJMSK-2006&repo=Supervity-Customer-Support-AI&theme=tokyonight&hide_border=true" alt="ResolveAI project repository card" />
-</a>
-<a href="https://github.com/YJMSK-2006/HROne-Attendance-Analytics-API">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YJMSK-2006&repo=HROne-Attendance-Analytics-API&theme=tokyonight&hide_border=true" alt="Employee Attendance and Analytics API repository card" />
-</a>
-<a href="https://github.com/YJMSK-2006/SQL_Injection_Detection">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YJMSK-2006&repo=SQL_Injection_Detection&theme=tokyonight&hide_border=true" alt="SQL Injection Detection repository card" />
-</a>
-<a href="https://github.com/YJMSK-2006/Credit-Card-Fraud-Detection">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YJMSK-2006&repo=Credit-Card-Fraud-Detection&theme=tokyonight&hide_border=true" alt="Credit Card Fraud Detection repository card" />
-</a>
-
-</div>
-
-### 🤖 ResolveAI — AI-Powered Customer Support Assistant
-A customer-support assistant built around a retrieval-augmented generation workflow that retrieves relevant knowledge-base content to support contextual responses.
-
-**Focus:** semantic retrieval, embeddings, knowledge-base search, and AI-assisted support.  
-**Tech:** Python · FastAPI · RAG · sentence-transformers  
-[View repository →](https://github.com/YJMSK-2006/Supervity-Customer-Support-AI)
-
-### 📊 Employee Attendance & Analytics API
-A backend API for employee management, attendance punch-in/punch-out, correction workflows, audit history, and attendance reporting.
-
-**Focus:** REST API design, validation, MongoDB indexes, aggregation-based analytics, and duplicate-operation safeguards.  
-**Tech:** Python · FastAPI · MongoDB  
-[View repository →](https://github.com/YJMSK-2006/HROne-Attendance-Analytics-API)
-
-### 🔐 SQL Injection Detection
-A machine-learning project focused on classifying potentially malicious SQL queries and distinguishing them from legitimate inputs.
-
-**Focus:** data preparation, feature engineering, classification, and model evaluation.  
-**Tech:** Python · Machine Learning · Scikit-learn  
-[View repository →](https://github.com/YJMSK-2006/SQL_Injection_Detection)
-
-### 💳 Credit Card Fraud Detection
-A machine-learning project focused on identifying potentially fraudulent credit-card transactions from transaction data.
-
-**Tech:** Python · Pandas · Scikit-learn  
-[View repository →](https://github.com/YJMSK-2006/Credit-Card-Fraud-Detection)
-
-<p align="center">
-  <a href="https://github.com/YJMSK-2006?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-All%20Repositories-2563eb?style=for-the-badge&logo=github" alt="Explore all repositories" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/YJMSK-2006/Supervity-Customer-Support-AI">ResolveAI — Customer Support AI</a></h3>
+      <p>RAG-based support assistant that retrieves relevant knowledge-base content to help answer user questions.</p>
+      <p><strong>Tech:</strong> Python · FastAPI · Embeddings · sentence-transformers</p>
+      <a href="https://github.com/YJMSK-2006/Supervity-Customer-Support-AI">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/YJMSK-2006/HROne-Attendance-Analytics-API">Employee Attendance & Analytics API</a></h3>
+      <p>REST API for employee records, punch-in/punch-out, attendance corrections, audit history, and reporting.</p>
+      <p><strong>Tech:</strong> Python · FastAPI · MongoDB</p>
+      <a href="https://github.com/YJMSK-2006/HROne-Attendance-Analytics-API">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 <a href="https://github.com/YJMSK-2006/SQL_Injection_Detection">SQL Injection Detection</a></h3>
+      <p>Machine-learning project exploring classification of potentially malicious SQL queries versus legitimate inputs.</p>
+      <p><strong>Tech:</strong> Python · Machine Learning · Scikit-learn</p>
+      <a href="https://github.com/YJMSK-2006/SQL_Injection_Detection">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 More Projects</h3>
+      <p>Explore my repositories for additional experiments, coursework, and development projects.</p>
+      <a href="https://github.com/YJMSK-2006?tab=repositories">Browse all repositories →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+## 🏅 Certifications & Virtual Experience
+
+- **AICTE TechSaksham (Microsoft & SAP)** — completed an AI-powered resume screening and candidate-ranking project.
+- **Cisco Data Analytics Essentials** — foundational data analytics learning.
+- **Forage Virtual Experiences** — Walmart USA Advanced Software Engineering and Accenture Software Engineering.
+- **Google Cloud Skills Boost** — earned 8 skill badges.
+
+<sub>Credentials and experience details can be verified through the corresponding certificates and program pages.</sub>
+
+## 🎯 Current Focus
+
+- Build and improve portfolio projects with clear documentation, tests, and deployment instructions.
+- Practice Java and DSA consistently for software engineering interviews.
+- Develop practical AI/ML and RAG applications, with attention to evaluation and reliability.
+- Strengthen full-stack skills by shipping complete, usable applications.
+
+## 📌 Explore My Work
+
+- **Repositories:** [Browse all projects](https://github.com/YJMSK-2006?tab=repositories)
+- **Coding practice:** [LeetCode](https://leetcode.com/u/yjmsaikrishna_2006/) · [CodeChef](https://www.codechef.com/users/saikrishnay_19) · [GeeksforGeeks activity](https://www.geeksforgeeks.org/profile/saikrishn6wno?tab=activity)
+- **Professional profile:** [LinkedIn](https://www.linkedin.com/in/j-m-saikirshna-y/)
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -119,23 +137,14 @@ A machine-learning project focused on identifying potentially fraudulent credit-
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=YJMSK-2006&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YJMSK-2006&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YJMSK-2006&theme=tokyonight" alt="GitHub summary statistics" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YJMSK-2006&theme=tokyonight&utcOffset=5.5" alt="Commit activity by time of day" />
-
 <img width="49%" src="https://streak-stats.demolab.com?user=YJMSK-2006&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 <img width="49%" src="https://github-profile-trophy.vercel.app/?username=YJMSK-2006&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3" alt="GitHub profile trophies" />
 
 </div>
 
-### 📈 Contribution Activity Calendar
+## 🐍 Contribution Snake
 
-<div align="center">
-  <img width="100%" src="https://ghchart.rshah.org/38bdf8/YJMSK-2006" alt="GitHub contribution activity calendar for YJMSK-2006" />
-</div>
-
-### 🐍 Contribution Snake
-
-This animation will appear after the **Generate Contribution Snake** workflow completes successfully and publishes the SVG files to the `output` branch:
+The snake animation is generated by GitHub Actions. After the workflow succeeds, the SVGs are published to the `output` branch and appear below.
 
 <p align="center">
   <picture>
@@ -147,24 +156,14 @@ This animation will appear after the **Generate Contribution Snake** workflow co
 
 ---
 
-## 🌐 Coding Profiles
-
-<p align="center">
-  <a href="https://www.codechef.com/users/saikrishnay_19"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-  <a href="https://leetcode.com/u/yjmsaikrishna_2006/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/saikrishn6wno"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-</p>
-
 ## 🤝 Let's Connect
 
-<p align="center">
-  I'm open to learning, building, and collaborating on useful software projects.
-  <br /><br />
+I'm open to learning, building, and collaborating on useful software projects.
+
+<p>
   <a href="https://www.linkedin.com/in/j-m-saikirshna-y/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:saikrishnayjm2006@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://drive.google.com/file/d/11XGsHr_CqKgGk1iFQ--FTR90wnbGLtun/view"><img src="https://img.shields.io/badge/Resume-View-2563eb?style=for-the-badge&logo=googledrive" alt="Resume" /></a>
 </p>
 
-<p align="center">
-  <i>"Learn continuously. Build consistently. Improve every day."</i>
-</p>
+<p align="center"><i>Learn continuously. Build consistently. Improve every day.</i></p>
