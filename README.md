@@ -114,34 +114,64 @@
 
 ---
 
-## 🚀 Featured Projects
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  A selection of projects showcasing my work in AI/ML, backend engineering, and application security.
+</p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/YJMSK-2006/Supervity-Customer-Support-AI">ResolveAI — Customer Support AI</a></h3>
-      <p>RAG-based support assistant that retrieves relevant knowledge-base content to help answer user questions.</p>
-      <p><strong>Tech:</strong> Python · FastAPI · Embeddings · sentence-transformers</p>
-      <a href="https://github.com/YJMSK-2006/Supervity-Customer-Support-AI">View repository →</a>
+      <h3>🤖 ResolveAI</h3>
+      <p><strong>AI-Powered Customer Support Assistant</strong></p>
+      <p>Retrieves relevant knowledge-base content to answer customer questions, with confidence-based escalation for uncertain queries.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="RAG" />
+        <img src="https://img.shields.io/badge/FAISS-2563EB?style=flat-square" alt="FAISS" />
+      </p>
+      <a href="https://github.com/YJMSK-2006/Supervity-Customer-Support-AI">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View ResolveAI repository" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/YJMSK-2006/HROne-Attendance-Analytics-API">Employee Attendance & Analytics API</a></h3>
-      <p>REST API for employee records, punch-in/punch-out, attendance corrections, audit history, and reporting.</p>
-      <p><strong>Tech:</strong> Python · FastAPI · MongoDB</p>
-      <a href="https://github.com/YJMSK-2006/HROne-Attendance-Analytics-API">View repository →</a>
+      <h3>📊 Employee Attendance API</h3>
+      <p><strong>Attendance Management & Analytics</strong></p>
+      <p>REST APIs for employee records, punch-in/punch-out, attendance corrections, audit history, and analytics powered by MongoDB.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </p>
+      <a href="https://github.com/YJMSK-2006/HROne-Attendance-Analytics-API">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Attendance API repository" />
+      </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/YJMSK-2006/SQL_Injection_Detection">SQL Injection Detection</a></h3>
-      <p>Machine-learning project exploring classification of potentially malicious SQL queries versus legitimate inputs.</p>
-      <p><strong>Tech:</strong> Python · Machine Learning · Scikit-learn</p>
-      <a href="https://github.com/YJMSK-2006/SQL_Injection_Detection">View repository →</a>
+      <h3>🔐 SQL Injection Detection</h3>
+      <p><strong>Machine Learning for Query Classification</strong></p>
+      <p>Classifies SQL queries as potentially malicious or legitimate using a machine-learning approach.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+        <img src="https://img.shields.io/badge/Security-DC2626?style=flat-square" alt="Application security" />
+      </p>
+      <a href="https://github.com/YJMSK-2006/SQL_Injection_Detection">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View SQL Injection Detection repository" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧪 More Projects</h3>
-      <p>Explore my repositories for additional experiments, coursework, and development projects.</p>
-      <a href="https://github.com/YJMSK-2006?tab=repositories">Browse all repositories →</a>
+      <h3>🧑‍💻 Explore More</h3>
+      <p><strong>More experiments, code, and learning</strong></p>
+      <p>Explore my other repositories for full-stack applications, coding practice, and technical experiments.</p>
+      <a href="https://github.com/YJMSK-2006?tab=repositories">
+        <img src="https://img.shields.io/badge/Explore_All_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+      </a>
     </td>
   </tr>
 </table>
