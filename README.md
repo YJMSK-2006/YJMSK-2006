@@ -68,16 +68,48 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,fastapi,mongodb,mysql,postgres,docker,git,github,postman,aws,azure,pytorch,tensorflow,opencv&perline=10" alt="Technology stack" />
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" alt="Python, Java, JavaScript and TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="Retrieval-Augmented Generation" />
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind&theme=dark" alt="HTML, CSS, React, Redux and Tailwind CSS" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Node.js, Express and FastAPI" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT authentication" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="TensorFlow, PyTorch and OpenCV" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" alt="FAISS vector search" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="MongoDB, MySQL and PostgreSQL" />
+</p>
+
+### 🧰 Tools & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,azure&theme=dark" alt="Git, GitHub, VS Code, Postman and Azure" />
 </p>
 
 ---
@@ -202,12 +234,10 @@ I'm open to learning, building, and collaborating on useful software projects.
   <a href="https://drive.google.com/file/d/11XGsHr_CqKgGk1iFQ--FTR90wnbGLtun/view"><img src="https://img.shields.io/badge/Resume-View-2563eb?style=for-the-badge&logo=googledrive" alt="Resume" /></a>
 </p>
 
-<p align="center"><i>Learn continuously. Build consistently. Improve every day.</i></p>
-
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:2563eb,100:111827&height=130&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:2563eb,100:111827&height=180&section=footer&text=Learn%20continuously.%20Build%20consistently.%20Improve%20every%20day.&fontSize=22&fontColor=ffffff&fontAlignY=70"
     width="100%"
-    alt="Decorative blue gradient wave footer"
+    alt="Learn continuously. Build consistently. Improve every day."
   />
 </div>
