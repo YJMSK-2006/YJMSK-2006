@@ -1,4 +1,12 @@
 <div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:2563eb,100:111827&height=130&section=header"
+    width="100%"
+    alt="Decorative blue gradient wave header"
+  />
+</div>
+
+<div align="center">
 
 <img src="assets/hero.svg" width="100%" alt="Yemineni Jyothi Madhava Saikrishna — AI/ML, Full-Stack and Python Developer" />
 
@@ -112,7 +120,7 @@
 
 ### 📜 Certifications
 
-- **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** — Oracle University *(valid through November 1, 2027)*
+- **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** — Oracle University
 - **Agentic AI Certified Foundations Associate** — Oracle University
 - **Google AI Essentials V1** — Coursera
 - **Oracle Certified Data Science Professional**
@@ -195,3 +203,11 @@ I'm open to learning, building, and collaborating on useful software projects.
 </p>
 
 <p align="center"><i>Learn continuously. Build consistently. Improve every day.</i></p>
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:2563eb,100:111827&height=130&section=footer"
+    width="100%"
+    alt="Decorative blue gradient wave footer"
+  />
+</div>
